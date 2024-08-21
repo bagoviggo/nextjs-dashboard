@@ -46,6 +46,18 @@ const customers = [
     email: 'balazs@orban.com',
     image_url: '/customers/balazs-orban.png',
   },
+  {
+    id: '9a34db75-b79d-488e-b7ca-e800cd02adcd',
+    name: 'Keanu Ribz',
+    email: 'ribz@keanu.com',
+    image_url: '/customers/keanu_ribz.jpeg',
+  },
+  {
+    id: '27c73752-c502-4045-a989-24e2966d5df0',
+    name: 'Roy Kip',
+    email: 'roy@kip.com',
+    image_url: '/customers/roykip.jpeg',
+  },
 ];
 
 const invoices = [
